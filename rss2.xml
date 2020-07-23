@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Winter is coming</title>
+    <title>MerryWinter</title>
     <link>https://merrywinter.github.io/</link>
     
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>개발 중 입니다.</description>
+    <description>Winter is coming</description>
     <pubDate>Wed, 22 Jul 2020 13:50:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
